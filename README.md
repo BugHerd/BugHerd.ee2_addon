@@ -1,6 +1,6 @@
 ## Expression Engine integration extension for BugHerd.
 
-See: (http://support.bugherd.com/entries/22079456-expression-engine)[http://support.bugherd.com/entries/22079456-expression-engine]
+See: [http://support.bugherd.com/entries/22079456-expression-engine](http://support.bugherd.com/entries/22079456-expression-engine)
 
 ### Installation Instructions
 
