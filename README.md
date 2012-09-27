@@ -1,5 +1,7 @@
 ## Expression Engine integration extension for BugHerd.
 
+See: (http://support.bugherd.com/entries/22079456-expression-engine)[http://support.bugherd.com/entries/22079456-expression-engine]
+
 ### Installation Instructions
 
 Download the latest version and copy the bugherd folder into your *system/expressionengine/third_party* folder and then enable the Bugherd extension from your Expression Engine Control Panel.
