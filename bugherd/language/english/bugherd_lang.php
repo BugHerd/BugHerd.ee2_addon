@@ -12,7 +12,7 @@
 $lang = array( 
 	'name' => 'BugHerd',
 	'description' => 'Installs BugHerd Sidebar',
-	'api_key' => 'BugHerd API key',
-	'api_description' => 'To obtain an API key, sign up for BugHerd at'
+	'api_key' => 'BugHerd Project Key',
+	'api_description' => 'The project key can be obtained from within BugHerd:'
 );
 
